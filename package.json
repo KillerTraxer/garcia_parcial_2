@@ -2,6 +2,7 @@
   "name": "garcia_parcial_2",
   "private": true,
   "version": "0.0.0",
+  "homepage": "/garcia_parcial_2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +13,8 @@
   "dependencies": {
     "flowbite": "^2.3.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.24.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
